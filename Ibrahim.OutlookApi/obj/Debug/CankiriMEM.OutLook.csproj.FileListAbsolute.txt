@@ -1,0 +1,32 @@
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Debug\CankiriMEM.Outlook.csproj.ResolveComReference.cache
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Debug\CankiriMEM.Outlook.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\CankiriMEM.Outlook.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\CankiriMEM.Outlook.pdb
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Debug\CankiriMEM.Outlook.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Debug\CankiriMEM.Outlook.pdb
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\NetOffice.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\OfficeApi.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\OutlookApi.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\VBIDEApi.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\stdole.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\NetOffice.xml
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\OfficeApi.xml
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\OutlookApi.xml
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\VBIDEApi.xml
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Debug\CankiriMEM.Outlook.csproj.CopyComplete
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\CankiriMEM.OutLook.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\CankiriMEM.OutLook.pdb
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\NetOffice.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\OfficeApi.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\OutlookApi.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\VBIDEApi.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\stdole.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\NetOffice.xml
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\OfficeApi.xml
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\OutlookApi.xml
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Debug\VBIDEApi.xml
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Debug\CankiriMEM.OutLook.csproj.ResolveComReference.cache
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Debug\CankiriMEM.OutLook.csproj.CoreCompileInputs.cache
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Debug\CankiriMEM.OutLook.csproj.CopyComplete
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Debug\CankiriMEM.OutLook.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Debug\CankiriMEM.OutLook.pdb

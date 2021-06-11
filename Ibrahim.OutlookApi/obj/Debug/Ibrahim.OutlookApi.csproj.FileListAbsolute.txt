@@ -1,0 +1,16 @@
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\bin\Debug\Ibrahim.OutlookApi.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\bin\Debug\Ibrahim.OutlookApi.pdb
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\bin\Debug\NetOffice.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\bin\Debug\OfficeApi.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\bin\Debug\OutlookApi.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\bin\Debug\VBIDEApi.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\bin\Debug\stdole.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\bin\Debug\NetOffice.xml
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\bin\Debug\OfficeApi.xml
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\bin\Debug\OutlookApi.xml
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\bin\Debug\VBIDEApi.xml
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\obj\Debug\Ibrahim.OutlookApi.csproj.ResolveComReference.cache
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\obj\Debug\Ibrahim.OutlookApi.csproj.CoreCompileInputs.cache
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\obj\Debug\Ibrahim.OutlookApi.csproj.CopyComplete
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\obj\Debug\Ibrahim.OutlookApi.dll
+D:\Kurslar\Kurs Kaynakları\Projeler\Windows Projeleri\OutlookApi\Ibrahim.OutlookApi\obj\Debug\Ibrahim.OutlookApi.pdb

@@ -1,0 +1,16 @@
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Release\CankiriMEM.OutLook.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Release\CankiriMEM.OutLook.pdb
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Release\NetOffice.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Release\OfficeApi.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Release\OutlookApi.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Release\VBIDEApi.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Release\stdole.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Release\NetOffice.xml
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Release\OfficeApi.xml
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Release\OutlookApi.xml
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\bin\Release\VBIDEApi.xml
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Release\CankiriMEM.Outlook.csproj.ResolveComReference.cache
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Release\CankiriMEM.Outlook.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Release\CankiriMEM.Outlook.csproj.CopyComplete
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Release\CankiriMEM.OutLook.dll
+C:\Users\Ibrahim\source\repos\CankiriMEM.Outlook\CankiriMEM.Outlook\obj\Release\CankiriMEM.OutLook.pdb
